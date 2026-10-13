@@ -2,8 +2,11 @@
 set.seed(1509)
 
 # import rarefied ps objects from fresh soils
-ps_16S_rare <- readRDS("~/truesoil_rain_16s_phyloseq_rare.rds")
-ps_ITS_rare <- readRDS("~/truesoil_rain_ITS_phyloseq_rare.rds")
+ps_16S <- readRDS("~/truesoil_rain_16s_phyloseq.rds")
+ps_ITS <- readRDS("~/truesoil_rain_ITS_phyloseq.rds")
+
+ps_16S_rare <- rarefy_even_depth(ps_16S, 10000, rngseed = TRUE)
+ps_ITS_rare <- rarefy_even_depth(ps_ITS, 10000, rngseed = TRUE)
 
 sample_names(ps_16S_rare) <- sample_data(ps_16S_rare)$Sample
 sample_names(ps_ITS_rare) <- sample_data(ps_ITS_rare)$Sample
@@ -104,8 +107,8 @@ ps_Birch_ITS <- ps_Birch_ITS %>%
     Site  %in% c("TH1", "TH2") ~ 902))
 
 # rarefy
-ps_Birch_16S_rare <- rarefy_even_depth(ps_Birch_16S, 5000, rngseed = TRUE)
-ps_Birch_ITS_rare <- rarefy_even_depth(ps_Birch_ITS, 5000, rngseed = TRUE)
+ps_Birch_16S_rare <- rarefy_even_depth(ps_Birch_16S, 10000, rngseed = TRUE)
+ps_Birch_ITS_rare <- rarefy_even_depth(ps_Birch_ITS, 10000, rngseed = TRUE)
 
 # establish MAP gradient order
 ps_Birch_16S_rare@sam_data$Location_code <- substr(ps_Birch_16S_rare@sam_data$Site, 1, 2)
