@@ -1,0 +1,386 @@
+"","sample","database_clean","category","original_n_reads","MAP","CO2_C_ug_g","count","length","rpm"
+"1","KJ1_1","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",75318913,2779,7.340007287,23,120.739130434783,2.52915676218904
+"2","KJ1_1","Anaerobic carbon monoxide dehydrogenase (cooS)","Trace gas metabolism",75318913,2779,7.340007287,1,64,0.207451214809752
+"3","KJ1_1","Arsenate reductase (arsC)","Alternative e donor",75318913,2779,7.340007287,34,82.2058823529412,5.49125963380489
+"4","KJ1_1","Arsenite oxidase (ARO)","Alternative e acceptor",75318913,2779,7.340007287,8,98.625,1.07695839779562
+"5","KJ1_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",75318913,2779,7.340007287,230,139.339130434783,21.9154653288784
+"6","KJ1_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",75318913,2779,7.340007287,46,121.826086956522,5.01318224739397
+"7","KJ1_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",75318913,2779,7.340007287,646,150.27399380805,57.0748324959668
+"8","KJ1_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",75318913,2779,7.340007287,435,135.965517241379,42.4772540676645
+"9","KJ1_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",75318913,2779,7.340007287,17,123.529411764706,1.82715127101008
+"10","KJ1_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",75318913,2779,7.340007287,125,120.216,13.8052315704899
+"11","KJ1_1","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",75318913,2779,7.340007287,2,142,0.186998278138368
+"12","KJ1_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",75318913,2779,7.340007287,179,149.843575418994,15.860280363807
+"13","KJ1_1","Dissimilatory sulfite reductase (dsrA)","Sulfur metabolism",75318913,2779,7.340007287,2,76.5,0.347107914975794
+"14","KJ1_1","F-type ATP synthase (atpA)","Aerobic respiration",75318913,2779,7.340007287,444,135.970720720721,43.3544346075939
+"15","KJ1_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",75318913,2779,7.340007287,25,112.72,2.94465883335347
+"16","KJ1_1","Formate dehydrogenase (fdhA)","Alternative e donor",75318913,2779,7.340007287,283,120.69964664311,31.1298044951544
+"17","KJ1_1","Fumarate reductase (frdA)","Aerobic respiration",75318913,2779,7.340007287,33,126.060606060606,3.47560573735107
+"18","KJ1_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",75318913,2779,7.340007287,7,108,0.860538372544155
+"19","KJ1_1","Isoprene monooxygenase alpha-subunit (isoA)","Other",75318913,2779,7.340007287,2,66.5,0.399304593919522
+"20","KJ1_1","Microbial rhodopsin (RHO)","Phototrophy",75318913,2779,7.340007287,1,46,0.288627777126611
+"21","KJ1_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",75318913,2779,7.340007287,350,129.385714285714,35.9151490362913
+"22","KJ1_1","NiFe (hydrogenase)","Trace gas metabolism",75318913,2779,7.340007287,213,143.009389671362,19.7747502229419
+"23","KJ1_1","Nitric oxide reductase (norB)","Nitrogen metabolism",75318913,2779,7.340007287,106,131.367924528302,10.7130339945818
+"24","KJ1_1","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",75318913,2779,7.340007287,9,94.3333333333333,1.26669858371467
+"25","KJ1_1","Nitrogenase (nifH)","Nitrogen metabolism",75318913,2779,7.340007287,7,58.8571428571429,1.57904613991112
+"26","KJ1_1","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",75318913,2779,7.340007287,42,124.47619047619,4.47980343289245
+"27","KJ1_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",75318913,2779,7.340007287,47,113.382978723404,5.50358846780699
+"28","KJ1_1","Photosystem II reaction centre (psbA)","Phototrophy",75318913,2779,7.340007287,9,134.222222222222,0.890254219845822
+"29","KJ1_1","Rubisco (rbcL)","Carbon fixation",75318913,2779,7.340007287,37,138.162162162162,3.55556448293646
+"30","KJ1_1","Selenate reductase (ygfK)","Alternative e donor",75318913,2779,7.340007287,10,57,2.32927679786388
+"31","KJ1_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",75318913,2779,7.340007287,542,139.514760147601,51.579257504421
+"32","KJ1_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",75318913,2779,7.340007287,91,126.681318681319,9.53728527322445
+"33","KJ1_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",75318913,2779,7.340007287,5,77.4,0.857679441073909
+"34","KJ1_1","Thiosulfohydrolase (soxB)","Sulfur metabolism",75318913,2779,7.340007287,51,111.745098039216,6.05951202352878
+"35","KJ1_2","Ammonia monooxygenase (amoA)","Nitrogen metabolism",85823540,2779,7.340007287,1,139,0.0838260062952023
+"36","KJ1_2","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",85823540,2779,7.340007287,19,118.842105263158,1.8628455136789
+"37","KJ1_2","Anaerobic carbon monoxide dehydrogenase (cooS)","Trace gas metabolism",85823540,2779,7.340007287,1,266,0.0438038153196734
+"38","KJ1_2","Arsenate reductase (arsC)","Alternative e donor",85823540,2779,7.340007287,34,70.2941176470588,5.6357732198905
+"39","KJ1_2","Arsenite oxidase (ARO)","Alternative e acceptor",85823540,2779,7.340007287,2,106,0.21984556367987
+"40","KJ1_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",85823540,2779,7.340007287,276,122.050724637681,26.3488882598267
+"41","KJ1_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",85823540,2779,7.340007287,42,100,4.89376224751391
+"42","KJ1_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",85823540,2779,7.340007287,642,140.669781931464,53.1774845106096
+"43","KJ1_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",85823540,2779,7.340007287,371,128.512129380054,33.637473283578
+"44","KJ1_2","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",85823540,2779,7.340007287,17,99.6470588235294,1.98782437950683
+"45","KJ1_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",85823540,2779,7.340007287,105,117.12380952381,10.4457032848626
+"46","KJ1_2","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",85823540,2779,7.340007287,2,123.5,0.188693358300131
+"47","KJ1_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",85823540,2779,7.340007287,179,147.217877094972,14.1672662572456
+"48","KJ1_2","F-type ATP synthase (atpA)","Aerobic respiration",85823540,2779,7.340007287,426,131.760563380282,37.6719179807859
+"49","KJ1_2","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",85823540,2779,7.340007287,25,98.6,2.95431411638771
+"50","KJ1_2","Formate dehydrogenase (fdhA)","Alternative e donor",85823540,2779,7.340007287,260,117.384615384615,25.8080827507287
+"51","KJ1_2","Fumarate reductase (frdA)","Aerobic respiration",85823540,2779,7.340007287,33,106.030303030303,3.62641508971451
+"52","KJ1_2","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",85823540,2779,7.340007287,3,71.6666666666667,0.487750390117665
+"53","KJ1_2","Isoprene monooxygenase alpha-subunit (isoA)","Other",85823540,2779,7.340007287,2,141.5,0.164689962897995
+"54","KJ1_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",85823540,2779,7.340007287,351,122.498575498576,33.3864047356549
+"55","KJ1_2","NiFe (hydrogenase)","Trace gas metabolism",85823540,2779,7.340007287,229,135.10480349345,19.7495983665151
+"56","KJ1_2","Nitric oxide reductase (norB)","Nitrogen metabolism",85823540,2779,7.340007287,84,116.761904761905,8.38246388236477
+"57","KJ1_2","Nitrogenase (nifH)","Nitrogen metabolism",85823540,2779,7.340007287,2,91,0.256083843407321
+"58","KJ1_2","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",85823540,2779,7.340007287,42,128.047619047619,3.82182994413507
+"59","KJ1_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",85823540,2779,7.340007287,36,99.3055555555556,4.22398659525676
+"60","KJ1_2","Photosystem II reaction centre (psbA)","Phototrophy",85823540,2779,7.340007287,5,104,0.560183407453515
+"61","KJ1_2","Reductive dehalogenase (rdhA)","Alternative e acceptor",85823540,2779,7.340007287,1,140,0.0832272491073794
+"62","KJ1_2","Rubisco (rbcL)","Carbon fixation",85823540,2779,7.340007287,34,117.852941176471,3.36149188808043
+"63","KJ1_2","Selenate reductase (ygfK)","Alternative e donor",85823540,2779,7.340007287,5,72.4,0.804683347723282
+"64","KJ1_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",85823540,2779,7.340007287,501,132.712574850299,43.9864817556015
+"65","KJ1_2","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",85823540,2779,7.340007287,87,132.333333333333,7.66026116469432
+"66","KJ1_2","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",85823540,2779,7.340007287,6,146.166666666667,0.478295707527015
+"67","KJ1_2","Thiosulfohydrolase (soxB)","Sulfur metabolism",85823540,2779,7.340007287,31,111.548387096774,3.23811280940047
+"68","KR2_1","Ammonia monooxygenase (amoA)","Nitrogen metabolism",10876536,4967,0.251638871,1,60,1.53235061849349
+"69","KR2_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",10876536,4967,0.251638871,52,141.192307692308,33.8611501422478
+"70","KR2_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",10876536,4967,0.251638871,7,200.285714285714,3.21334580482942
+"71","KR2_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",10876536,4967,0.251638871,76,161.026315789474,43.3936452316639
+"72","KR2_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",10876536,4967,0.251638871,41,125.243902439024,30.0979324987834
+"73","KR2_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",10876536,4967,0.251638871,2,127.5,1.4422123468174
+"74","KR2_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",10876536,4967,0.251638871,6,161.666666666667,3.41224467623292
+"75","KR2_1","Decaheme iron reductase (mtrB)","Alternative e acceptor",10876536,4967,0.251638871,2,463,0.397153508032869
+"76","KR2_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",10876536,4967,0.251638871,20,171.45,10.7251136902431
+"77","KR2_1","F-type ATP synthase (atpA)","Aerobic respiration",10876536,4967,0.251638871,36,140.805555555556,23.5067240272349
+"78","KR2_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",10876536,4967,0.251638871,1,58,1.58519029499326
+"79","KR2_1","Formate dehydrogenase (fdhA)","Alternative e donor",10876536,4967,0.251638871,23,147.217391304348,14.3640899678037
+"80","KR2_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",10876536,4967,0.251638871,7,108.285714285714,5.94341796618846
+"81","KR2_1","Isoprene monooxygenase alpha-subunit (isoA)","Other",10876536,4967,0.251638871,1,128,0.718289352418822
+"82","KR2_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",10876536,4967,0.251638871,35,144.114285714286,22.3290583781267
+"83","KR2_1","NiFe (hydrogenase)","Trace gas metabolism",10876536,4967,0.251638871,34,127.058823529412,24.6027404858121
+"84","KR2_1","Nitric oxide reductase (norB)","Nitrogen metabolism",10876536,4967,0.251638871,4,147.5,2.49331626059957
+"85","KR2_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",10876536,4967,0.251638871,2,199.5,0.921714657740443
+"86","KR2_1","Rubisco (rbcL)","Carbon fixation",10876536,4967,0.251638871,8,153.25,4.7995321166517
+"87","KR2_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",10876536,4967,0.251638871,40,141.05,26.0733178616403
+"88","KR2_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",10876536,4967,0.251638871,11,135.454545454545,7.46635267802866
+"89","KR2_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",10876536,4967,0.251638871,3,162.333333333333,1.69911567553692
+"90","KR2_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",1225520,4967,0.251638871,8,106,61.583407951896
+"91","KR2_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",1225520,4967,0.251638871,2,156.5,10.4278614103849
+"92","KR2_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",1225520,4967,0.251638871,7,136.285714285714,41.910930411707
+"93","KR2_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",1225520,4967,0.251638871,2,129.5,12.6020101214304
+"94","KR2_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",1225520,4967,0.251638871,2,246,6.63398500294814
+"95","KR2_2","Decaheme iron reductase (mtrB)","Alternative e acceptor",1225520,4967,0.251638871,3,236.333333333333,10.3579991512886
+"96","KR2_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",1225520,4967,0.251638871,5,206,19.8053435767627
+"97","KR2_2","F-type ATP synthase (atpA)","Aerobic respiration",1225520,4967,0.251638871,3,224,10.928305652178
+"98","KR2_2","Formate dehydrogenase (fdhA)","Alternative e donor",1225520,4967,0.251638871,2,137,11.9121190563886
+"99","KR2_2","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",1225520,4967,0.251638871,1,187,4.36353024258086
+"100","KR2_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",1225520,4967,0.251638871,4,148.5,21.979263444111
+"101","KR2_2","NiFe (hydrogenase)","Trace gas metabolism",1225520,4967,0.251638871,2,90,18.1328923413916
+"102","KR2_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",1225520,4967,0.251638871,1,131,6.22885614780627
+"103","KR2_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",1225520,4967,0.251638871,7,122.428571428571,46.6546413217835
+"104","LH1_1","Ammonia monooxygenase (amoA)","Nitrogen metabolism",87862678,605,9.889117808,4,206.75,0.220196310029215
+"105","LH1_1","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",87862678,605,9.889117808,24,122.666666666667,2.22679502112425
+"106","LH1_1","Arsenate reductase (arsC)","Alternative e donor",87862678,605,9.889117808,47,82.4255319148936,6.48980523365227
+"107","LH1_1","Arsenite oxidase (ARO)","Alternative e acceptor",87862678,605,9.889117808,26,169.269230769231,1.7481990955813
+"108","LH1_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",87862678,605,9.889117808,351,132.333333333333,30.187936533226
+"109","LH1_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",87862678,605,9.889117808,57,129.070175438596,5.02625501166092
+"110","LH1_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",87862678,605,9.889117808,1378,151.986937590711,103.190214922823
+"111","LH1_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",87862678,605,9.889117808,535,147.422429906542,41.3033978499058
+"112","LH1_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",87862678,605,9.889117808,60,141.516666666667,4.82546559753695
+"113","LH1_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",87862678,605,9.889117808,86,143.174418604651,6.83641765168529
+"114","LH1_1","Decaheme iron reductase (mtrB)","Alternative e acceptor",87862678,605,9.889117808,1,95,0.119804176575106
+"115","LH1_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",87862678,605,9.889117808,95,140.042105263158,7.72076863282333
+"116","LH1_1","Dissimilatory sulfite reductase (dsrA)","Sulfur metabolism",87862678,605,9.889117808,2,74.5,0.305540853010338
+"117","LH1_1","F-type ATP synthase (atpA)","Aerobic respiration",87862678,605,9.889117808,539,149.545454545455,41.021459864323
+"118","LH1_1","FeFe (hydrogenase)","Trace gas metabolism",87862678,605,9.889117808,1,56,0.203239228118483
+"119","LH1_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",87862678,605,9.889117808,59,157.305084745763,4.26879023515835
+"120","LH1_1","Formate dehydrogenase (fdhA)","Alternative e donor",87862678,605,9.889117808,298,153.124161073825,22.1497131155288
+"121","LH1_1","Fumarate reductase (frdA)","Aerobic respiration",87862678,605,9.889117808,47,132.63829787234,4.03296526711082
+"122","LH1_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",87862678,605,9.889117808,14,150.214285714286,1.06074834418853
+"123","LH1_1","Malonyl-CoA reductase (mcr)","Carbon fixation",87862678,605,9.889117808,3,41.3333333333333,0.826069120739642
+"124","LH1_1","Microbial rhodopsin (RHO)","Phototrophy",87862678,605,9.889117808,1,77,0.147810347722533
+"125","LH1_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",87862678,605,9.889117808,337,136.516320474777,28.0957668629859
+"126","LH1_1","NiFe (hydrogenase)","Trace gas metabolism",87862678,605,9.889117808,256,145.61328125,20.0094218693158
+"127","LH1_1","Nitric oxide reductase (norB)","Nitrogen metabolism",87862678,605,9.889117808,102,131.901960784314,8.80125256751177
+"128","LH1_1","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",87862678,605,9.889117808,13,245.846153846154,0.601832307544846
+"129","LH1_1","Nitrogenase (nifH)","Nitrogen metabolism",87862678,605,9.889117808,2,75,0.303503913990269
+"130","LH1_1","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",87862678,605,9.889117808,26,155.038461538462,1.90866390961382
+"131","LH1_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",87862678,605,9.889117808,60,131.75,5.18317879679776
+"132","LH1_1","Photosystem II reaction centre (psbA)","Phototrophy",87862678,605,9.889117808,2,143,0.159180374470421
+"133","LH1_1","Rubisco (rbcL)","Carbon fixation",87862678,605,9.889117808,39,172.615384615385,2.57146531405525
+"134","LH1_1","Selenate reductase (ygfK)","Alternative e donor",87862678,605,9.889117808,12,43.5,3.1396956619683
+"135","LH1_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",87862678,605,9.889117808,688,145.370639534884,53.8650789870806
+"136","LH1_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",87862678,605,9.889117808,17,104.058823529412,1.85936894735418
+"137","LH1_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",87862678,605,9.889117808,6,361.833333333333,0.188728827216427
+"138","LH1_1","Thiosulfohydrolase (soxB)","Sulfur metabolism",87862678,605,9.889117808,49,164.612244897959,3.38789160127682
+"139","LH1_2","Ammonia monooxygenase (amoA)","Nitrogen metabolism",26496572,605,9.889117808,3,169.333333333333,0.668635000522742
+"140","LH1_2","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",26496572,605,9.889117808,3,123.666666666667,0.915543343033835
+"141","LH1_2","Arsenate reductase (arsC)","Alternative e donor",26496572,605,9.889117808,8,69.25,4.35994005956586
+"142","LH1_2","Arsenite oxidase (ARO)","Alternative e acceptor",26496572,605,9.889117808,6,108.666666666667,2.08384405070891
+"143","LH1_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",26496572,605,9.889117808,95,122.431578947368,29.2846787502423
+"144","LH1_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",26496572,605,9.889117808,12,96.0833333333333,4.71349981287844
+"145","LH1_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",26496572,605,9.889117808,312,139.528846153846,84.3919264041582
+"146","LH1_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",26496572,605,9.889117808,126,125.984126984127,37.7454861779284
+"147","LH1_2","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",26496572,605,9.889117808,7,132.714285714286,1.99063059837485
+"148","LH1_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",26496572,605,9.889117808,28,141,7.49461327615089
+"149","LH1_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",26496572,605,9.889117808,24,108.666666666667,8.33537620283565
+"150","LH1_2","F-type ATP synthase (atpA)","Aerobic respiration",26496572,605,9.889117808,127,135.700787401575,35.3208919906587
+"151","LH1_2","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",26496572,605,9.889117808,16,133.8125,4.51267032788321
+"152","LH1_2","Formate dehydrogenase (fdhA)","Alternative e donor",26496572,605,9.889117808,87,111.344827586207,29.4889639726778
+"153","LH1_2","Fumarate reductase (frdA)","Aerobic respiration",26496572,605,9.889117808,9,114,2.97953140583818
+"154","LH1_2","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",26496572,605,9.889117808,1,96,0.393132616048094
+"155","LH1_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",26496572,605,9.889117808,79,113.354430379747,26.3026134057611
+"156","LH1_2","NiFe (hydrogenase)","Trace gas metabolism",26496572,605,9.889117808,63,152.142857142857,15.6278520497766
+"157","LH1_2","Nitric oxide reductase (norB)","Nitrogen metabolism",26496572,605,9.889117808,20,105.6,7.14786574632897
+"158","LH1_2","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",26496572,605,9.889117808,5,199.2,0.947307508549623
+"159","LH1_2","Nitrogenase (nifH)","Nitrogen metabolism",26496572,605,9.889117808,1,40,0.943518278515424
+"160","LH1_2","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",26496572,605,9.889117808,10,104.6,3.60810049145478
+"161","LH1_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",26496572,605,9.889117808,11,119.363636363636,3.47801101905153
+"162","LH1_2","Photosystem I reaction centre (psaA)","Phototrophy",26496572,605,9.889117808,2,102.5,0.736404510060819
+"163","LH1_2","Photosystem II reaction centre (psbA)","Phototrophy",26496572,605,9.889117808,3,89,1.27215947665001
+"164","LH1_2","Rubisco (rbcL)","Carbon fixation",26496572,605,9.889117808,14,161,3.28180270787974
+"165","LH1_2","Selenate reductase (ygfK)","Alternative e donor",26496572,605,9.889117808,3,42.3333333333333,2.67454000209097
+"166","LH1_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",26496572,605,9.889117808,172,128.023255813953,50.7048950982749
+"167","LH1_2","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",26496572,605,9.889117808,4,87.75,1.72037520868909
+"168","LH1_2","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",26496572,605,9.889117808,4,269.5,0.560159274814352
+"169","LH1_2","Thiosulfohydrolase (soxB)","Sulfur metabolism",26496572,605,9.889117808,15,91.8,6.16678613408774
+"170","LH2_1","Ammonia monooxygenase (amoA)","Nitrogen metabolism",82383076,605,3.521285446,6,207.833333333333,0.350427389808667
+"171","LH2_1","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",82383076,605,3.521285446,21,131.333333333333,1.94091414063442
+"172","LH2_1","Arsenate reductase (arsC)","Alternative e donor",82383076,605,3.521285446,25,78.28,3.87660175626142
+"173","LH2_1","Arsenite oxidase (ARO)","Alternative e acceptor",82383076,605,3.521285446,20,129.5,1.87465875200089
+"174","LH2_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",82383076,605,3.521285446,254,126.681102362205,24.337943536858
+"175","LH2_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",82383076,605,3.521285446,50,120.4,5.04087019070007
+"176","LH2_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",82383076,605,3.521285446,1032,147.081395348837,85.1694715222824
+"177","LH2_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",82383076,605,3.521285446,419,138.873508353222,36.6232272876054
+"178","LH2_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",82383076,605,3.521285446,39,134.641025641026,3.51600263809026
+"179","LH2_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",82383076,605,3.521285446,84,142.547619047619,7.15288618656388
+"180","LH2_1","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",82383076,605,3.521285446,1,127,0.0955780741669745
+"181","LH2_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",82383076,605,3.521285446,100,127.84,9.49500580350889
+"182","LH2_1","F-type ATP synthase (atpA)","Aerobic respiration",82383076,605,3.521285446,434,131.663594470046,40.0116092313871
+"183","LH2_1","FeFe (hydrogenase)","Trace gas metabolism",82383076,605,3.521285446,1,189,0.0642244202074379
+"184","LH2_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",82383076,605,3.521285446,31,161.290322580645,2.33300344357135
+"185","LH2_1","Formate dehydrogenase (fdhA)","Alternative e donor",82383076,605,3.521285446,255,135.525490196078,22.8392159100048
+"186","LH2_1","Fumarate reductase (frdA)","Aerobic respiration",82383076,605,3.521285446,38,98.9736842105263,4.66042857360625
+"187","LH2_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",82383076,605,3.521285446,10,112.8,1.07610065773101
+"188","LH2_1","Isoprene monooxygenase alpha-subunit (isoA)","Other",82383076,605,3.521285446,2,102,0.238008145474623
+"189","LH2_1","Microbial rhodopsin (RHO)","Phototrophy",82383076,605,3.521285446,1,205,0.059211782532711
+"190","LH2_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",82383076,605,3.521285446,287,123.428571428571,28.2246256680375
+"191","LH2_1","NiFe (hydrogenase)","Trace gas metabolism",82383076,605,3.521285446,183,146.098360655738,15.2043459744832
+"192","LH2_1","Nitric oxide reductase (norB)","Nitrogen metabolism",82383076,605,3.521285446,114,123.640350877193,11.1919721027313
+"193","LH2_1","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",82383076,605,3.521285446,16,163.5625,1.18740326607439
+"194","LH2_1","Nitrogenase (nifH)","Nitrogen metabolism",82383076,605,3.521285446,1,40,0.303460385480144
+"195","LH2_1","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",82383076,605,3.521285446,40,126.05,3.85193666615018
+"196","LH2_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",82383076,605,3.521285446,46,147.673913043478,3.78108155852192
+"197","LH2_1","Photosystem I reaction centre (psaA)","Phototrophy",82383076,605,3.521285446,1,139,0.0873267296345738
+"198","LH2_1","Photosystem II reaction centre (psbA)","Phototrophy",82383076,605,3.521285446,9,90.6666666666667,1.20491623646528
+"199","LH2_1","Rubisco (rbcL)","Carbon fixation",82383076,605,3.521285446,34,169.294117647059,2.43780545945133
+"200","LH2_1","Selenate reductase (ygfK)","Alternative e donor",82383076,605,3.521285446,8,47.125,2.06063285631079
+"201","LH2_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",82383076,605,3.521285446,550,134.701818181818,49.5622744419964
+"202","LH2_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",82383076,605,3.521285446,20,107.8,2.25202512415691
+"203","LH2_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",82383076,605,3.521285446,11,223.636363636364,0.597052140538169
+"204","LH2_1","Thiosulfohydrolase (soxB)","Sulfur metabolism",82383076,605,3.521285446,44,120.545454545455,4.43061316960452
+"205","LH2_2","ATP-citrate lyase (aclB)","Carbon fixation",78816018,605,3.521285446,1,40,0.317194405837656
+"206","LH2_2","Ammonia monooxygenase (amoA)","Nitrogen metabolism",78816018,605,3.521285446,5,157.8,0.40202079320362
+"207","LH2_2","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",78816018,605,3.521285446,24,110.583333333333,2.7536394538431
+"208","LH2_2","Arsenate reductase (arsC)","Alternative e donor",78816018,605,3.521285446,23,75.4347826086957,3.86849200433706
+"209","LH2_2","Arsenite oxidase (ARO)","Alternative e acceptor",78816018,605,3.521285446,7,91.1428571428571,0.974453033607846
+"210","LH2_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",78816018,605,3.521285446,208,117.024038461538,22.5514132930617
+"211","LH2_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",78816018,605,3.521285446,29,115.51724137931,3.18519994399366
+"212","LH2_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",78816018,605,3.521285446,752,135.678191489362,70.3223386371921
+"213","LH2_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",78816018,605,3.521285446,346,122.968208092486,35.7000451164696
+"214","LH2_2","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",78816018,605,3.521285446,19,131,1.84021182012686
+"215","LH2_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",78816018,605,3.521285446,76,117.868421052632,8.18091041803216
+"216","LH2_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",78816018,605,3.521285446,81,129.148148148148,7.95760442290741
+"217","LH2_2","Dissimilatory sulfite reductase (dsrA)","Sulfur metabolism",78816018,605,3.521285446,1,83,0.152864773897666
+"218","LH2_2","F-type ATP synthase (atpA)","Aerobic respiration",78816018,605,3.521285446,331,123.432024169184,34.0240222224196
+"219","LH2_2","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",78816018,605,3.521285446,22,148.181818181818,1.88370665552669
+"220","LH2_2","Formate dehydrogenase (fdhA)","Alternative e donor",78816018,605,3.521285446,204,124.058823529412,20.8635410041724
+"221","LH2_2","Fumarate reductase (frdA)","Aerobic respiration",78816018,605,3.521285446,20,100.65,2.52116765693119
+"222","LH2_2","Malonyl-CoA reductase (mcr)","Carbon fixation",78816018,605,3.521285446,1,41,0.309457956914786
+"223","LH2_2","Microbial rhodopsin (RHO)","Phototrophy",78816018,605,3.521285446,1,85,0.149267955688309
+"224","LH2_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",78816018,605,3.521285446,193,113.476683937824,21.579241903195
+"225","LH2_2","NiFe (hydrogenase)","Trace gas metabolism",78816018,605,3.521285446,157,139.745222929936,14.2543754047263
+"226","LH2_2","Nitric oxide reductase (norB)","Nitrogen metabolism",78816018,605,3.521285446,64,121.96875,6.65758793907783
+"227","LH2_2","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",78816018,605,3.521285446,11,132.545454545455,1.05296359688221
+"228","LH2_2","Nitrogenase (nifH)","Nitrogen metabolism",78816018,605,3.521285446,3,41,0.928373870744359
+"229","LH2_2","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",78816018,605,3.521285446,38,128.526315789474,3.75125898468121
+"230","LH2_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",78816018,605,3.521285446,33,126.454545454545,3.31104440888768
+"231","LH2_2","Photosystem I reaction centre (psaA)","Phototrophy",78816018,605,3.521285446,1,154,0.0823881573604301
+"232","LH2_2","Photosystem II reaction centre (psbA)","Phototrophy",78816018,605,3.521285446,5,121.2,0.523423111943327
+"233","LH2_2","Rubisco (rbcL)","Carbon fixation",78816018,605,3.521285446,22,132.363636363636,2.1088199508987
+"234","LH2_2","Selenate reductase (ygfK)","Alternative e donor",78816018,605,3.521285446,7,43.2857142857143,2.05181859881784
+"235","LH2_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",78816018,605,3.521285446,406,128.918719211823,39.957247343884
+"236","LH2_2","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",78816018,605,3.521285446,18,96.5,2.36663183630168
+"237","LH2_2","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",78816018,605,3.521285446,11,216.363636363636,0.645050808510191
+"238","LH2_2","Thiosulfohydrolase (soxB)","Sulfur metabolism",78816018,605,3.521285446,31,125.612903225806,3.13121544951194
+"239","RS1_1","Acetyl CoA synthase (acsB)","Carbon fixation",87070630,1918,2.789330967,4,65.25,0.70405694770254
+"240","RS1_1","Ammonia monooxygenase (amoA)","Nitrogen metabolism",87070630,1918,2.789330967,2,57.5,0.399475789892093
+"241","RS1_1","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",87070630,1918,2.789330967,19,124.526315789474,1.7523496848447
+"242","RS1_1","Anaerobic carbon monoxide dehydrogenase (cooS)","Trace gas metabolism",87070630,1918,2.789330967,3,96,0.358904029981177
+"243","RS1_1","Arsenate reductase (arsC)","Alternative e donor",87070630,1918,2.789330967,30,78.0333333333333,4.41539344872187
+"244","RS1_1","Arsenite oxidase (ARO)","Alternative e acceptor",87070630,1918,2.789330967,38,149.552631578947,2.91821879594761
+"245","RS1_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",87070630,1918,2.789330967,267,122.966292134831,24.9375335217623
+"246","RS1_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",87070630,1918,2.789330967,56,124.571428571429,5.16294971569253
+"247","RS1_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",87070630,1918,2.789330967,593,143.190556492411,47.5629331972305
+"248","RS1_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",87070630,1918,2.789330967,375,128.141333333333,33.6101416127047
+"249","RS1_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",87070630,1918,2.789330967,34,135.147058823529,2.88935318325652
+"250","RS1_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",87070630,1918,2.789330967,103,142.699029126214,8.2898089080317
+"251","RS1_1","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",87070630,1918,2.789330967,5,116.8,0.491649356138599
+"252","RS1_1","Decaheme iron reductase (mtrB)","Alternative e acceptor",87070630,1918,2.789330967,2,95.5,0.240522072448119
+"253","RS1_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",87070630,1918,2.789330967,145,150.165517241379,11.0898609061879
+"254","RS1_1","F-type ATP synthase (atpA)","Aerobic respiration",87070630,1918,2.789330967,366,131.426229508197,31.9836003427108
+"255","RS1_1","FeFe (hydrogenase)","Trace gas metabolism",87070630,1918,2.789330967,3,51.3333333333333,0.671197146977786
+"256","RS1_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",87070630,1918,2.789330967,35,141.114285714286,2.84856002738655
+"257","RS1_1","Formate dehydrogenase (fdhA)","Alternative e donor",87070630,1918,2.789330967,239,137.133891213389,20.0161899951107
+"258","RS1_1","Fumarate reductase (frdA)","Aerobic respiration",87070630,1918,2.789330967,29,126.137931034483,2.64046617136507
+"259","RS1_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",87070630,1918,2.789330967,27,143.555555555556,2.16009112781241
+"260","RS1_1","Isoprene monooxygenase alpha-subunit (isoA)","Other",87070630,1918,2.789330967,2,90.5,0.25381058473807
+"261","RS1_1","Microbial rhodopsin (RHO)","Phototrophy",87070630,1918,2.789330967,1,289,0.0397402386138328
+"262","RS1_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",87070630,1918,2.789330967,281,127.562277580071,25.2995250540661
+"263","RS1_1","NiFe (hydrogenase)","Trace gas metabolism",87070630,1918,2.789330967,230,129.695652173913,20.3671720399644
+"264","RS1_1","Nitric oxide reductase (norB)","Nitrogen metabolism",87070630,1918,2.789330967,104,134.144230769231,8.90409229624007
+"265","RS1_1","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",87070630,1918,2.789330967,14,178.571428571429,0.900418430416778
+"266","RS1_1","Nitrogenase (nifH)","Nitrogen metabolism",87070630,1918,2.789330967,6,136.666666666667,0.50421639333941
+"267","RS1_1","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",87070630,1918,2.789330967,36,151.083333333333,2.73661848343066
+"268","RS1_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",87070630,1918,2.789330967,54,154.611111111111,4.01126516296606
+"269","RS1_1","Photosystem I reaction centre (psaA)","Phototrophy",87070630,1918,2.789330967,1,238,0.0482560040310827
+"270","RS1_1","Photosystem II reaction centre (psbA)","Phototrophy",87070630,1918,2.789330967,4,92.75,0.495306909300169
+"271","RS1_1","Rubisco (rbcL)","Carbon fixation",87070630,1918,2.789330967,37,125.081081081081,3.39733529503358
+"272","RS1_1","Selenate reductase (ygfK)","Alternative e donor",87070630,1918,2.789330967,12,78.3333333333333,1.75939337250347
+"273","RS1_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",87070630,1918,2.789330967,443,137.875846501129,36.9014853444365
+"274","RS1_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",87070630,1918,2.789330967,79,133.962025316456,6.77288496981961
+"275","RS1_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",87070630,1918,2.789330967,4,142.25,0.322950550703625
+"276","RS1_1","Thiosulfohydrolase (soxB)","Sulfur metabolism",87070630,1918,2.789330967,40,133.85,3.43217899421671
+"277","RS1_2","ATP-citrate lyase (aclB)","Carbon fixation",83506239,1918,2.789330967,1,171,0.0700301353097015
+"278","RS1_2","Acetyl CoA synthase (acsB)","Carbon fixation",83506239,1918,2.789330967,1,131,0.0914133827325111
+"279","RS1_2","Ammonia monooxygenase (amoA)","Nitrogen metabolism",83506239,1918,2.789330967,3,141,0.254790492296999
+"280","RS1_2","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",83506239,1918,2.789330967,26,108.769230769231,2.86251892548099
+"281","RS1_2","Anaerobic carbon monoxide dehydrogenase (cooS)","Trace gas metabolism",83506239,1918,2.789330967,4,65.25,0.734109004625836
+"282","RS1_2","Arsenate reductase (arsC)","Alternative e donor",83506239,1918,2.789330967,47,87.8297872340426,6.40821542678084
+"283","RS1_2","Arsenite oxidase (ARO)","Alternative e acceptor",83506239,1918,2.789330967,36,162.388888888889,2.65477223174731
+"284","RS1_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",83506239,1918,2.789330967,307,131.5667752443,27.9430122576686
+"285","RS1_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",83506239,1918,2.789330967,75,132.653333333333,6.77055346276199
+"286","RS1_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",83506239,1918,2.789330967,911,147.753018660812,73.8351379048612
+"287","RS1_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",83506239,1918,2.789330967,464,133.366379310345,41.6632069097639
+"288","RS1_2","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",83506239,1918,2.789330967,34,147.588235294118,2.75872399909935
+"289","RS1_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",83506239,1918,2.789330967,129,132.364341085271,11.6707773568829
+"290","RS1_2","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",83506239,1918,2.789330967,2,47,0.509580984593998
+"291","RS1_2","Decaheme iron reductase (mtrB)","Alternative e acceptor",83506239,1918,2.789330967,2,120.5,0.198757728430854
+"292","RS1_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",83506239,1918,2.789330967,196,158.418367346939,14.8160219950992
+"293","RS1_2","Dissimilatory sulfite reductase (dsrA)","Sulfur metabolism",83506239,1918,2.789330967,3,82,0.438115358705815
+"294","RS1_2","F-type ATP synthase (atpA)","Aerobic respiration",83506239,1918,2.789330967,495,139.171717171717,42.5927115347422
+"295","RS1_2","FeFe (hydrogenase)","Trace gas metabolism",83506239,1918,2.789330967,5,74.8,0.800478150933085
+"296","RS1_2","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",83506239,1918,2.789330967,33,138.939393939394,2.8442621084487
+"297","RS1_2","Formate dehydrogenase (fdhA)","Alternative e donor",83506239,1918,2.789330967,282,143.631205673759,23.5115563436462
+"298","RS1_2","Fumarate reductase (frdA)","Aerobic respiration",83506239,1918,2.789330967,45,119.466666666667,4.51073011613967
+"299","RS1_2","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",83506239,1918,2.789330967,25,120.64,2.48158843210356
+"300","RS1_2","Malonyl-CoA reductase (mcr)","Carbon fixation",83506239,1918,2.789330967,1,41,0.292076905803877
+"301","RS1_2","Microbial rhodopsin (RHO)","Phototrophy",83506239,1918,2.789330967,2,142.5,0.168072324743284
+"302","RS1_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",83506239,1918,2.789330967,365,135.07397260274,32.3595346396613
+"303","RS1_2","NiFe (hydrogenase)","Trace gas metabolism",83506239,1918,2.789330967,345,128.744927536232,32.0900241404319
+"304","RS1_2","Nitric oxide reductase (norB)","Nitrogen metabolism",83506239,1918,2.789330967,152,143.453947368421,12.6885548314333
+"305","RS1_2","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",83506239,1918,2.789330967,14,122.142857142857,1.37259065207015
+"306","RS1_2","Nitrogenase (nifH)","Nitrogen metabolism",83506239,1918,2.789330967,9,123.333333333333,0.873862526283491
+"307","RS1_2","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",83506239,1918,2.789330967,54,135.740740740741,4.76392176675147
+"308","RS1_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",83506239,1918,2.789330967,57,158.315789473684,4.31153286183828
+"309","RS1_2","Photosystem I reaction centre (psaA)","Phototrophy",83506239,1918,2.789330967,5,113.2,0.528937859450484
+"310","RS1_2","Photosystem II reaction centre (psbA)","Phototrophy",83506239,1918,2.789330967,8,117,0.818813889774971
+"311","RS1_2","Rubisco (rbcL)","Carbon fixation",83506239,1918,2.789330967,55,121.054545454545,5.44079877475606
+"312","RS1_2","Selenate reductase (ygfK)","Alternative e donor",83506239,1918,2.789330967,28,85.9642857142857,3.90050687999992
+"313","RS1_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",83506239,1918,2.789330967,629,145.448330683625,51.7872655421559
+"314","RS1_2","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",83506239,1918,2.789330967,133,139.157894736842,11.4452390240629
+"315","RS1_2","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",83506239,1918,2.789330967,6,182.333333333333,0.394063540188777
+"316","RS1_2","Thiosulfohydrolase (soxB)","Sulfur metabolism",83506239,1918,2.789330967,33,180.242424242424,2.19249189092759
+"317","TH2_1","Acetyl CoA synthase (acsB)","Carbon fixation",68924708,902,6.132045869,1,41,0.353867932272401
+"318","TH2_1","Ammonia monooxygenase (amoA)","Nitrogen metabolism",68924708,902,6.132045869,1,216,0.0671693760331872
+"319","TH2_1","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",68924708,902,6.132045869,15,120.533333333333,1.80554849292749
+"320","TH2_1","Arsenate reductase (arsC)","Alternative e donor",68924708,902,6.132045869,20,81.3,3.569147656376
+"321","TH2_1","Arsenite oxidase (ARO)","Alternative e acceptor",68924708,902,6.132045869,14,155.214285714286,1.30864367406397
+"322","TH2_1","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",68924708,902,6.132045869,236,119.233050847458,28.7170888300789
+"323","TH2_1","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",68924708,902,6.132045869,39,116.461538461538,4.85855528939657
+"324","TH2_1","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",68924708,902,6.132045869,470,148.106382978723,46.0414663956028
+"325","TH2_1","Cytochrome bd oxidase (cydA)","Aerobic respiration",68924708,902,6.132045869,312,135.49358974359,33.4088025728369
+"326","TH2_1","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",68924708,902,6.132045869,13,126.076923076923,1.49600421154086
+"327","TH2_1","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",68924708,902,6.132045869,71,145.535211267606,7.07807781960632
+"328","TH2_1","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",68924708,902,6.132045869,1,176,0.0824351433134571
+"329","TH2_1","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",68924708,902,6.132045869,148,145.358108108108,14.7722795857519
+"330","TH2_1","F-type ATP synthase (atpA)","Aerobic respiration",68924708,902,6.132045869,292,134.832191780822,31.42058902411
+"331","TH2_1","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",68924708,902,6.132045869,32,148.75,3.12117463624464
+"332","TH2_1","Formate dehydrogenase (fdhA)","Alternative e donor",68924708,902,6.132045869,206,126.019417475728,23.7167304518635
+"333","TH2_1","Fumarate reductase (frdA)","Aerobic respiration",68924708,902,6.132045869,36,134.75,3.87613408559602
+"334","TH2_1","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",68924708,902,6.132045869,4,94.5,0.614120009446283
+"335","TH2_1","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",68924708,902,6.132045869,189,127.010582010582,21.5897176736847
+"336","TH2_1","NiFe (hydrogenase)","Trace gas metabolism",68924708,902,6.132045869,157,133.216560509554,17.098834193922
+"337","TH2_1","Nitric oxide reductase (norB)","Nitrogen metabolism",68924708,902,6.132045869,78,144.666666666667,7.8226012493581
+"338","TH2_1","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",68924708,902,6.132045869,3,80,0.544071945868817
+"339","TH2_1","Nitrogenase (nifH)","Nitrogen metabolism",68924708,902,6.132045869,1,40,0.362714630579211
+"340","TH2_1","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",68924708,902,6.132045869,33,153.030303030303,3.12868303129316
+"341","TH2_1","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",68924708,902,6.132045869,31,151,2.97858372131273
+"342","TH2_1","Rubisco (rbcL)","Carbon fixation",68924708,902,6.132045869,24,156.916666666667,2.21905074045274
+"343","TH2_1","Selenate reductase (ygfK)","Alternative e donor",68924708,902,6.132045869,4,48.25,1.20278426720567
+"344","TH2_1","Succinate dehydrogenase (sdhA)","Aerobic respiration",68924708,902,6.132045869,355,138.704225352113,37.1333154498335
+"345","TH2_1","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",68924708,902,6.132045869,53,119.547169811321,6.43223104354169
+"346","TH2_1","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",68924708,902,6.132045869,6,165.5,0.525991005069551
+"347","TH2_1","Thiosulfohydrolase (soxB)","Sulfur metabolism",68924708,902,6.132045869,32,151.65625,3.06136230548619
+"348","TH2_2","Acetyl CoA synthase (acsB)","Carbon fixation",86201705,902,6.132045869,3,74,0.470298592592113
+"349","TH2_2","Ammonia monooxygenase (amoA)","Nitrogen metabolism",86201705,902,6.132045869,2,171,0.13568068558213
+"350","TH2_2","Ammonia-forming nitrite reductase (nrfA)","Nitrogen metabolism",86201705,902,6.132045869,21,129.761904761905,1.87739746429982
+"351","TH2_2","Anaerobic carbon monoxide dehydrogenase (cooS)","Trace gas metabolism",86201705,902,6.132045869,2,62,0.374216084428133
+"352","TH2_2","Arsenate reductase (arsC)","Alternative e donor",86201705,902,6.132045869,37,75.4594594594595,5.68816490223694
+"353","TH2_2","Arsenite oxidase (ARO)","Alternative e acceptor",86201705,902,6.132045869,15,177.266666666667,0.981631135346457
+"354","TH2_2","Carbon monoxide dehydrogenase (coxL)","Trace gas metabolism",86201705,902,6.132045869,348,136.442528735632,29.5878649877032
+"355","TH2_2","Copper containing nitrite reductase (nirK)","Nitrogen metabolism",86201705,902,6.132045869,57,135.964912280702,4.86331223322802
+"356","TH2_2","Cytochrome aa3 oxidase (coxA)","Aerobic respiration",86201705,902,6.132045869,734,164.213896457766,51.8525713642493
+"357","TH2_2","Cytochrome bd oxidase (cydA)","Aerobic respiration",86201705,902,6.132045869,457,140.361050328228,37.7705870374724
+"358","TH2_2","Cytochrome bo3 oxidase (cyoA)","Aerobic respiration",86201705,902,6.132045869,18,148.666666666667,1.40456889088048
+"359","TH2_2","Cytochrome cbb3 oxidase (ccoN)","Aerobic respiration",86201705,902,6.132045869,102,145.970588235294,8.10623066788228
+"360","TH2_2","Cytochrome cd1 nitrite reductase (nirS)","Nitrogen metabolism",86201705,902,6.132045869,6,112.166666666667,0.620542570909059
+"361","TH2_2","Decaheme iron reductase (mtrB)","Alternative e acceptor",86201705,902,6.132045869,1,136,0.0852992545387657
+"362","TH2_2","Dissimilatory nitrate reductase (narG)","Nitrogen metabolism",86201705,902,6.132045869,192,163.5625,13.6176332259304
+"363","TH2_2","Dissimilatory sulfite reductase (dsrA)","Sulfur metabolism",86201705,902,6.132045869,1,51,0.227464678770042
+"364","TH2_2","F-type ATP synthase (atpA)","Aerobic respiration",86201705,902,6.132045869,454,145.083700440529,36.3012327108408
+"365","TH2_2","FeFe (hydrogenase)","Trace gas metabolism",86201705,902,6.132045869,1,46,0.252189100375481
+"366","TH2_2","Flavocytochrome c sulfide dehydrogenase (FCC)","Sulfur metabolism",86201705,902,6.132045869,32,147.21875,2.52156981194792
+"367","TH2_2","Formate dehydrogenase (fdhA)","Alternative e donor",86201705,902,6.132045869,265,146.611320754717,20.9682657365885
+"368","TH2_2","Fumarate reductase (frdA)","Aerobic respiration",86201705,902,6.132045869,42,139.404761904762,3.49506957487072
+"369","TH2_2","Iron oxidising cytochrome (cyc2)","Alternative e acceptor",86201705,902,6.132045869,11,115.090909090909,1.10875555504734
+"370","TH2_2","Isoprene monooxygenase alpha-subunit (isoA)","Other",86201705,902,6.132045869,1,128,0.0906304579474385
+"371","TH2_2","NADH-ubiquinone oxidoreductase (nuoF)","Aerobic respiration",86201705,902,6.132045869,297,129.276094276094,26.6515438033847
+"372","TH2_2","NiFe (hydrogenase)","Trace gas metabolism",86201705,902,6.132045869,246,139.280487804878,20.4893873135114
+"373","TH2_2","Nitric oxide reductase (norB)","Nitrogen metabolism",86201705,902,6.132045869,105,136.27619047619,8.9382697781414
+"374","TH2_2","Nitrite oxidoreductase (nxrA)","Nitrogen metabolism",86201705,902,6.132045869,5,59,0.983110052311197
+"375","TH2_2","Nitrogenase (nifH)","Nitrogen metabolism",86201705,902,6.132045869,2,61.5,0.377258491618606
+"376","TH2_2","Nitrous oxide reductase (nosZ)","Nitrogen metabolism",86201705,902,6.132045869,55,150.890909090909,4.22847491471842
+"377","TH2_2","Periplasmic nitrate reductase (napA)","Nitrogen metabolism",86201705,902,6.132045869,46,165.826086956522,3.2180228466371
+"378","TH2_2","Photosystem II reaction centre (psbA)","Phototrophy",86201705,902,6.132045869,3,93.3333333333333,0.372879598412318
+"379","TH2_2","Reductive dehalogenase (rdhA)","Alternative e acceptor",86201705,902,6.132045869,1,50,0.232013972345443
+"380","TH2_2","Rubisco (rbcL)","Carbon fixation",86201705,902,6.132045869,34,164.735294117647,2.39428809169194
+"381","TH2_2","Selenate reductase (ygfK)","Alternative e donor",86201705,902,6.132045869,14,44.5714285714286,3.64380918106625
+"382","TH2_2","Succinate dehydrogenase (sdhA)","Aerobic respiration",86201705,902,6.132045869,541,145.388170055453,43.1670468756191
+"383","TH2_2","Sulfide quinone oxidoreductase (sqr)","Sulfur metabolism",86201705,902,6.132045869,89,135.573033707865,7.61554232947228
+"384","TH2_2","Thaumarchaeota 4-hydroxybutyryl-CoA synthetase (hbsT)","Carbon fixation",86201705,902,6.132045869,4,261.75,0.177279061964044
+"385","TH2_2","Thiosulfohydrolase (soxB)","Sulfur metabolism",86201705,902,6.132045869,31,186.354838709677,1.92976828305323
